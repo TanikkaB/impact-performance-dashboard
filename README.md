@@ -1,6 +1,6 @@
 # 📊 Impact Performance Dashboard
 
-A lightweight analytics dashboard designed to help impact and programme teams monitor participation, completion, outcomes, and satisfaction in one place.
+A lightweight analytics dashboard designed to help impact and programme teams monitor performance, understand outcomes, and identify risks across programmes, regions, and time.
 
 This project is part of the **Impact Analytics Suite**, a portfolio of decision-support tools focused on impact, programme, and data strategy workflows.
 
@@ -17,6 +17,18 @@ This dashboard brings key performance indicators together into a simple interfac
 - performance comparison  
 - early risk identification  
 - decision-ready reporting  
+
+---
+
+## ✨ Key Features
+
+- KPI summary cards for quick performance overview  
+- Interactive filtering by programme, region, and date  
+- Completion and outcome comparisons across programmes  
+- Time-based trend visualisation  
+- Automated key findings and insights  
+- Risk flagging for underperforming areas  
+- Optional survey feedback analysis (word frequency + keyword detection)
 
 ---
 
@@ -42,7 +54,7 @@ It also includes a sample dataset so users can explore the app immediately.
 
 I built this project to demonstrate how data can be used not just to report what has happened, but to support structured decision-making in impact-driven environments.
 
-The aim was to create a lightweight tool that feels practical for internal use by impact, programme, and strategy teams.
+The goal was to create a lightweight, practical tool that reflects how impact and programme teams actually work — balancing clarity, usability, and insight.
 
 ---
 
@@ -134,3 +146,5 @@ _Add screenshot here_
 
 Part of the **Impact Analytics Suite**  
 [Add suite repo link here]
+
+This project focuses on clarity, usability, and decision support rather than model complexity.
