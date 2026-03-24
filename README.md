@@ -154,7 +154,7 @@ This project focuses on clarity, usability, and decision support rather than mod
 ## ⚙️ How to Run Locally
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/reporting-data-quality-checker.git
-cd reporting-impact-performance-dashboard
+git clone https://github.com/YOUR-USERNAME/impact-performance-dashboard.git
+cd impact-performance-dashboard
 pip install -r requirements.txt
 streamlit run app.py
