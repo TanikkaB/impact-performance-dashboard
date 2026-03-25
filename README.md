@@ -112,6 +112,26 @@ _Add screenshot here_
 
 ---
 
+## ⚙️ How to Run Locally
+
+1. Clone the repository:
+```bash
+git clone https://github.com/TanikkaB/impact-performance-dashboard.git
+```
+2. Navigate into the project folder:
+```bash
+cd impact-performance-dashboard
+```
+3. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+4. Run the app:
+```bash
+streamlit run app.py
+```
+---
+
 ## 🛠 Tech Stack
 
 - Python  
@@ -130,7 +150,7 @@ _Add screenshot here_
 
 ## 📁 Repository
 
-[Add repository link here]
+https://github.com/TanikkaB/impact-performance-dashboard
 
 ---
 
@@ -145,16 +165,8 @@ _Add screenshot here_
 ## 🔗 Related Project
 
 Part of the **Impact Analytics Suite**  
-[Add suite repo link here]
+[View the full suite](https://github.com/TanikkaB/impact-analytics-suite)
 
 This project focuses on clarity, usability, and decision support rather than model complexity.
 
 ---
-
-## ⚙️ How to Run Locally
-
-```bash
-git clone https://github.com/YOUR-USERNAME/impact-performance-dashboard.git
-cd impact-performance-dashboard
-pip install -r requirements.txt
-streamlit run app.py
