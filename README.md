@@ -102,13 +102,13 @@ Demo mode is designed to show:
 ## 📸 Screenshots
 
 ### Landing Page
-_Images_Impact_Performance_Tracker/1_Landing.png_
+![Landing Page](Images_Impact_Performance_Tracker/1_Landing.png)
 
 ### Dashboard View
-_Images_Impact_Performance_Tracker/2_Dashboard.png_
+![Dashboard View](Images_Impact_Performance_Tracker/2_Dashboard.png)
 
 ### Demo / Insights View
-_Images_Impact_Performance_Tracker/3_Insights.png_
+![Insights View](Images_Impact_Performance_Tracker/3_Insights.png)
 
 ---
 
